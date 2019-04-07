@@ -6,7 +6,7 @@ Google Actions - basic custom actions
 
 - check cosmetic ingredients
 
-## Air polution checker
+## Air pollution checker
 
 - check pollution on the nearest sensor
   API - airvisual

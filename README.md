@@ -4,7 +4,7 @@ Google Actions - basic custom actions
 
 ## Ingredient checker
 
-- check cosmetic ingredients
+- check cosmetics ingredients
 
 ## Air pollution checker
 
